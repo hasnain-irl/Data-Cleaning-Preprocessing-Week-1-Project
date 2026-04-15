@@ -65,5 +65,5 @@ Even simple datasets require careful inspection. Data cleaning is a critical ste
 
 ## 👤 Author
 
-*Hasnain Raza
-*Data Analytics Intern
+Hasnain Raza
+Data Analytics Intern
